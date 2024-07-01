@@ -1,4 +1,4 @@
-# CI/CD Pipeline for MERN Stack Application
+# CI/CD Pipeline for MERN Stack Applications
 
 ## Overview
 
